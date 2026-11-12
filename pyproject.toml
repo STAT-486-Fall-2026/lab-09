@@ -1,0 +1,9 @@
+[project]
+name = "stat-486-lab-09"
+version = "0.1.0"
+description = "STAT 486 Lab 9: Understanding Neural Networks"
+requires-python = ">=3.11.5,<3.12"
+dependencies = []
+
+[tool.uv]
+package = false
